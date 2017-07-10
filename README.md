@@ -29,7 +29,7 @@
  
 #### Supporting Information
 
-* Documentation Folder contains the following.
+Documentation Folder contains the following.
 
      eclipse Sequence-20 run.txt  	output for the Sequence Algorithm execution. 
      eclipse Colour-20 run.txt	output for the Colour Algorithm execution.
