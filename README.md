@@ -9,12 +9,12 @@
 
     mvn clean compile 
     
-* Run the unit tests
+#### Run the unit tests
 
     mvn test 
 
 
-* Run the program via Eclipse
+#### Run the program via Eclipse
 
     Select Run -> Run Configurations.
     On Dialog, Select Java Applications from the list on the left.
@@ -31,12 +31,12 @@
 
 * Documentation Folder contains the following.
 
-	eclipse Sequence-20 run.txt  	output for the Sequence Algorithm execution. 
-	eclipse Colour-20 run.txt	output for the Colour Algorithm execution.
-	eclipse Alternate-20 run.txt  	output for the Alternate Algorithm execution.
-	maven-test run.txt 		output script for mvn test runs.
-	LightSequenceUML.ucls 	 	ObjectAid UML Class Diagram (Generated).
-	LightSequenceUML.jpg 	 	jpg version of the generated Class Diagram.
+     eclipse Sequence-20 run.txt  	output for the Sequence Algorithm execution. 
+     eclipse Colour-20 run.txt	output for the Colour Algorithm execution.
+     eclipse Alternate-20 run.txt  	output for the Alternate Algorithm execution.
+     maven-test run.txt 		output script for mvn test runs.
+     LightSequenceUML.ucls 	 	ObjectAid UML Class Diagram (Generated).
+     LightSequenceUML.jpg 	 	jpg version of the generated Class Diagram.
     
     
 
