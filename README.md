@@ -2,7 +2,7 @@
 
 #### Software used.
 
-* Java 8 JDK 1.8.0_71, Maven 3.3.9, Eclipse (Mars)
+    Java 8 JDK 1.8.0_71, Maven 3.3.9, Eclipse (Mars)
 
 
 #### Build the software via Maven on command line.
