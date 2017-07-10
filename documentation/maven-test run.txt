@@ -1,0 +1,78 @@
+shrenster-mbp:lights_old schohan$ mvn test
+[INFO] Scanning for projects...
+[INFO]
+[INFO] ------------------------------------------------------------------------
+[INFO] Building lights 0.0.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO]
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ lights ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /Users/schohan/Documents/Java Stuff/workspace/lights_old/src/main/resources
+[INFO]
+[INFO] --- maven-compiler-plugin:3.2:compile (default-compile) @ lights ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO]
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ lights ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /Users/schohan/Documents/Java Stuff/workspace/lights_old/src/test/resources
+[INFO]
+[INFO] --- maven-compiler-plugin:3.2:testCompile (default-testCompile) @ lights ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 6 source files to /Users/schohan/Documents/Java Stuff/workspace/lights_old/target/test-classes
+[INFO]
+[INFO] --- maven-surefire-plugin:2.18:test (default-test) @ lights ---
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/maven-surefire-common/2.18/maven-surefire-common-2.18.pom
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/maven-surefire-common/2.18/maven-surefire-common-2.18.pom (7 KB at 4.2 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-api/2.18/surefire-api-2.18.pom
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-api/2.18/surefire-api-2.18.pom (3 KB at 25.4 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-booter/2.18/surefire-booter-2.18.pom
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-booter/2.18/surefire-booter-2.18.pom (3 KB at 34.1 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/maven-surefire-common/2.18/maven-surefire-common-2.18.jar
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-booter/2.18/surefire-booter-2.18.jar
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-api/2.18/surefire-api-2.18.jar
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-booter/2.18/surefire-booter-2.18.jar (39 KB at 66.5 KB/sec)
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-api/2.18/surefire-api-2.18.jar (145 KB at 107.5 KB/sec)
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/maven-surefire-common/2.18/maven-surefire-common-2.18.jar (268 KB at 190.9 KB/sec)
+[INFO] Surefire report directory: /Users/schohan/Documents/Java Stuff/workspace/lights_old/target/surefire-reports
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-junit4/2.18/surefire-junit4-2.18.pom
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-junit4/2.18/surefire-junit4-2.18.pom (3 KB at 27.6 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-providers/2.18/surefire-providers-2.18.pom
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-providers/2.18/surefire-providers-2.18.pom (3 KB at 29.0 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-junit4/2.18/surefire-junit4-2.18.jar
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-junit4/2.18/surefire-junit4-2.18.jar (67 KB at 250.3 KB/sec)
+
+-------------------------------------------------------
+ T E S T S
+-------------------------------------------------------
+Running com.shrenit.lightsequences.lights.AlternateAlgorithmTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.003 sec - in com.shrenit.lightsequences.lights.AlternateAlgorithmTest
+Running com.shrenit.lightsequences.lights.ColourAlgorithmTest
+Inside Colour Algorithm...
+Inside Colour Algorithm...
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0 sec - in com.shrenit.lightsequences.lights.ColourAlgorithmTest
+Running com.shrenit.lightsequences.lights.LightSequenceAlgorithmFactoryTest
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0 sec - in com.shrenit.lightsequences.lights.LightSequenceAlgorithmFactoryTest
+Running com.shrenit.lightsequences.lights.LightsRackTest
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0 sec - in com.shrenit.lightsequences.lights.LightsRackTest
+Running com.shrenit.lightsequences.lights.LightTest
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0 sec - in com.shrenit.lightsequences.lights.LightTest
+Running com.shrenit.lightsequences.lights.SequenceAlgorithmTest
+Inside Sequence Algorithm...
+Inside Sequence Algorithm...
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.001 sec - in com.shrenit.lightsequences.lights.SequenceAlgorithmTest
+
+Results :
+
+
+
+
+Tests run: 14, Failures: 0, Errors: 0, Skipped: 0
+
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 8.081 s
+[INFO] Finished at: 2017-07-09T23:20:51+01:00
+[INFO] Final Memory: 20M/211M
+[INFO] ------------------------------------------------------------------------
+shrenster-mbp:lights_old schohan$

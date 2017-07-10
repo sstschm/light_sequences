@@ -1,0 +1,2231 @@
+Running the Sequence algorithm...count: 1
+Inside Sequence Algorithm...
+Light 1: RED on
+Light 2: GREEN off
+Light 3: WHITE off
+Light 4: RED off
+Light 5: GREEN off
+Light 6: WHITE off
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE off
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE off
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE off
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE off
+Light 19: RED off
+Light 20: GREEN off
+
+Running the Sequence algorithm...count: 2
+Inside Sequence Algorithm...
+Light 1: RED off
+Light 2: GREEN on
+Light 3: WHITE off
+Light 4: RED off
+Light 5: GREEN off
+Light 6: WHITE off
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE off
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE off
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE off
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE off
+Light 19: RED off
+Light 20: GREEN off
+
+Running the Sequence algorithm...count: 3
+Inside Sequence Algorithm...
+Light 1: RED off
+Light 2: GREEN off
+Light 3: WHITE on
+Light 4: RED off
+Light 5: GREEN off
+Light 6: WHITE off
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE off
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE off
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE off
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE off
+Light 19: RED off
+Light 20: GREEN off
+
+Running the Sequence algorithm...count: 4
+Inside Sequence Algorithm...
+Light 1: RED off
+Light 2: GREEN off
+Light 3: WHITE off
+Light 4: RED on
+Light 5: GREEN off
+Light 6: WHITE off
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE off
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE off
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE off
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE off
+Light 19: RED off
+Light 20: GREEN off
+
+Running the Sequence algorithm...count: 5
+Inside Sequence Algorithm...
+Light 1: RED off
+Light 2: GREEN off
+Light 3: WHITE off
+Light 4: RED off
+Light 5: GREEN on
+Light 6: WHITE off
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE off
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE off
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE off
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE off
+Light 19: RED off
+Light 20: GREEN off
+
+Running the Sequence algorithm...count: 6
+Inside Sequence Algorithm...
+Light 1: RED off
+Light 2: GREEN off
+Light 3: WHITE off
+Light 4: RED off
+Light 5: GREEN off
+Light 6: WHITE on
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE off
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE off
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE off
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE off
+Light 19: RED off
+Light 20: GREEN off
+
+Running the Sequence algorithm...count: 7
+Inside Sequence Algorithm...
+Light 1: RED off
+Light 2: GREEN off
+Light 3: WHITE off
+Light 4: RED off
+Light 5: GREEN off
+Light 6: WHITE off
+Light 7: RED on
+Light 8: GREEN off
+Light 9: WHITE off
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE off
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE off
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE off
+Light 19: RED off
+Light 20: GREEN off
+
+Running the Sequence algorithm...count: 8
+Inside Sequence Algorithm...
+Light 1: RED off
+Light 2: GREEN off
+Light 3: WHITE off
+Light 4: RED off
+Light 5: GREEN off
+Light 6: WHITE off
+Light 7: RED off
+Light 8: GREEN on
+Light 9: WHITE off
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE off
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE off
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE off
+Light 19: RED off
+Light 20: GREEN off
+
+Running the Sequence algorithm...count: 9
+Inside Sequence Algorithm...
+Light 1: RED off
+Light 2: GREEN off
+Light 3: WHITE off
+Light 4: RED off
+Light 5: GREEN off
+Light 6: WHITE off
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE on
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE off
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE off
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE off
+Light 19: RED off
+Light 20: GREEN off
+
+Running the Sequence algorithm...count: 10
+Inside Sequence Algorithm...
+Light 1: RED off
+Light 2: GREEN off
+Light 3: WHITE off
+Light 4: RED off
+Light 5: GREEN off
+Light 6: WHITE off
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE off
+Light 10: RED on
+Light 11: GREEN off
+Light 12: WHITE off
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE off
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE off
+Light 19: RED off
+Light 20: GREEN off
+
+Running the Sequence algorithm...count: 11
+Inside Sequence Algorithm...
+Light 1: RED off
+Light 2: GREEN off
+Light 3: WHITE off
+Light 4: RED off
+Light 5: GREEN off
+Light 6: WHITE off
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE off
+Light 10: RED off
+Light 11: GREEN on
+Light 12: WHITE off
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE off
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE off
+Light 19: RED off
+Light 20: GREEN off
+
+Running the Sequence algorithm...count: 12
+Inside Sequence Algorithm...
+Light 1: RED off
+Light 2: GREEN off
+Light 3: WHITE off
+Light 4: RED off
+Light 5: GREEN off
+Light 6: WHITE off
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE off
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE on
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE off
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE off
+Light 19: RED off
+Light 20: GREEN off
+
+Running the Sequence algorithm...count: 13
+Inside Sequence Algorithm...
+Light 1: RED off
+Light 2: GREEN off
+Light 3: WHITE off
+Light 4: RED off
+Light 5: GREEN off
+Light 6: WHITE off
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE off
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE off
+Light 13: RED on
+Light 14: GREEN off
+Light 15: WHITE off
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE off
+Light 19: RED off
+Light 20: GREEN off
+
+Running the Sequence algorithm...count: 14
+Inside Sequence Algorithm...
+Light 1: RED off
+Light 2: GREEN off
+Light 3: WHITE off
+Light 4: RED off
+Light 5: GREEN off
+Light 6: WHITE off
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE off
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE off
+Light 13: RED off
+Light 14: GREEN on
+Light 15: WHITE off
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE off
+Light 19: RED off
+Light 20: GREEN off
+
+Running the Sequence algorithm...count: 15
+Inside Sequence Algorithm...
+Light 1: RED off
+Light 2: GREEN off
+Light 3: WHITE off
+Light 4: RED off
+Light 5: GREEN off
+Light 6: WHITE off
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE off
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE off
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE on
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE off
+Light 19: RED off
+Light 20: GREEN off
+
+Running the Sequence algorithm...count: 16
+Inside Sequence Algorithm...
+Light 1: RED off
+Light 2: GREEN off
+Light 3: WHITE off
+Light 4: RED off
+Light 5: GREEN off
+Light 6: WHITE off
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE off
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE off
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE off
+Light 16: RED on
+Light 17: GREEN off
+Light 18: WHITE off
+Light 19: RED off
+Light 20: GREEN off
+
+Running the Sequence algorithm...count: 17
+Inside Sequence Algorithm...
+Light 1: RED off
+Light 2: GREEN off
+Light 3: WHITE off
+Light 4: RED off
+Light 5: GREEN off
+Light 6: WHITE off
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE off
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE off
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE off
+Light 16: RED off
+Light 17: GREEN on
+Light 18: WHITE off
+Light 19: RED off
+Light 20: GREEN off
+
+Running the Sequence algorithm...count: 18
+Inside Sequence Algorithm...
+Light 1: RED off
+Light 2: GREEN off
+Light 3: WHITE off
+Light 4: RED off
+Light 5: GREEN off
+Light 6: WHITE off
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE off
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE off
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE off
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE on
+Light 19: RED off
+Light 20: GREEN off
+
+Running the Sequence algorithm...count: 19
+Inside Sequence Algorithm...
+Light 1: RED off
+Light 2: GREEN off
+Light 3: WHITE off
+Light 4: RED off
+Light 5: GREEN off
+Light 6: WHITE off
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE off
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE off
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE off
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE off
+Light 19: RED on
+Light 20: GREEN off
+
+Running the Sequence algorithm...count: 20
+Inside Sequence Algorithm...
+Light 1: RED off
+Light 2: GREEN off
+Light 3: WHITE off
+Light 4: RED off
+Light 5: GREEN off
+Light 6: WHITE off
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE off
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE off
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE off
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE off
+Light 19: RED off
+Light 20: GREEN on
+
+Running the Sequence algorithm...count: 21
+Inside Sequence Algorithm...
+Light 1: RED on
+Light 2: GREEN off
+Light 3: WHITE off
+Light 4: RED off
+Light 5: GREEN off
+Light 6: WHITE off
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE off
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE off
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE off
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE off
+Light 19: RED off
+Light 20: GREEN off
+
+Running the Sequence algorithm...count: 22
+Inside Sequence Algorithm...
+Light 1: RED off
+Light 2: GREEN on
+Light 3: WHITE off
+Light 4: RED off
+Light 5: GREEN off
+Light 6: WHITE off
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE off
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE off
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE off
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE off
+Light 19: RED off
+Light 20: GREEN off
+
+Running the Sequence algorithm...count: 23
+Inside Sequence Algorithm...
+Light 1: RED off
+Light 2: GREEN off
+Light 3: WHITE on
+Light 4: RED off
+Light 5: GREEN off
+Light 6: WHITE off
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE off
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE off
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE off
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE off
+Light 19: RED off
+Light 20: GREEN off
+
+Running the Sequence algorithm...count: 24
+Inside Sequence Algorithm...
+Light 1: RED off
+Light 2: GREEN off
+Light 3: WHITE off
+Light 4: RED on
+Light 5: GREEN off
+Light 6: WHITE off
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE off
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE off
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE off
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE off
+Light 19: RED off
+Light 20: GREEN off
+
+Running the Sequence algorithm...count: 25
+Inside Sequence Algorithm...
+Light 1: RED off
+Light 2: GREEN off
+Light 3: WHITE off
+Light 4: RED off
+Light 5: GREEN on
+Light 6: WHITE off
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE off
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE off
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE off
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE off
+Light 19: RED off
+Light 20: GREEN off
+
+Running the Sequence algorithm...count: 26
+Inside Sequence Algorithm...
+Light 1: RED off
+Light 2: GREEN off
+Light 3: WHITE off
+Light 4: RED off
+Light 5: GREEN off
+Light 6: WHITE on
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE off
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE off
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE off
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE off
+Light 19: RED off
+Light 20: GREEN off
+
+Running the Sequence algorithm...count: 27
+Inside Sequence Algorithm...
+Light 1: RED off
+Light 2: GREEN off
+Light 3: WHITE off
+Light 4: RED off
+Light 5: GREEN off
+Light 6: WHITE off
+Light 7: RED on
+Light 8: GREEN off
+Light 9: WHITE off
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE off
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE off
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE off
+Light 19: RED off
+Light 20: GREEN off
+
+Running the Sequence algorithm...count: 28
+Inside Sequence Algorithm...
+Light 1: RED off
+Light 2: GREEN off
+Light 3: WHITE off
+Light 4: RED off
+Light 5: GREEN off
+Light 6: WHITE off
+Light 7: RED off
+Light 8: GREEN on
+Light 9: WHITE off
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE off
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE off
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE off
+Light 19: RED off
+Light 20: GREEN off
+
+Running the Sequence algorithm...count: 29
+Inside Sequence Algorithm...
+Light 1: RED off
+Light 2: GREEN off
+Light 3: WHITE off
+Light 4: RED off
+Light 5: GREEN off
+Light 6: WHITE off
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE on
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE off
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE off
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE off
+Light 19: RED off
+Light 20: GREEN off
+
+Running the Sequence algorithm...count: 30
+Inside Sequence Algorithm...
+Light 1: RED off
+Light 2: GREEN off
+Light 3: WHITE off
+Light 4: RED off
+Light 5: GREEN off
+Light 6: WHITE off
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE off
+Light 10: RED on
+Light 11: GREEN off
+Light 12: WHITE off
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE off
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE off
+Light 19: RED off
+Light 20: GREEN off
+
+Running the Sequence algorithm...count: 31
+Inside Sequence Algorithm...
+Light 1: RED off
+Light 2: GREEN off
+Light 3: WHITE off
+Light 4: RED off
+Light 5: GREEN off
+Light 6: WHITE off
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE off
+Light 10: RED off
+Light 11: GREEN on
+Light 12: WHITE off
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE off
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE off
+Light 19: RED off
+Light 20: GREEN off
+
+Running the Sequence algorithm...count: 32
+Inside Sequence Algorithm...
+Light 1: RED off
+Light 2: GREEN off
+Light 3: WHITE off
+Light 4: RED off
+Light 5: GREEN off
+Light 6: WHITE off
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE off
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE on
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE off
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE off
+Light 19: RED off
+Light 20: GREEN off
+
+Running the Sequence algorithm...count: 33
+Inside Sequence Algorithm...
+Light 1: RED off
+Light 2: GREEN off
+Light 3: WHITE off
+Light 4: RED off
+Light 5: GREEN off
+Light 6: WHITE off
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE off
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE off
+Light 13: RED on
+Light 14: GREEN off
+Light 15: WHITE off
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE off
+Light 19: RED off
+Light 20: GREEN off
+
+Running the Sequence algorithm...count: 34
+Inside Sequence Algorithm...
+Light 1: RED off
+Light 2: GREEN off
+Light 3: WHITE off
+Light 4: RED off
+Light 5: GREEN off
+Light 6: WHITE off
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE off
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE off
+Light 13: RED off
+Light 14: GREEN on
+Light 15: WHITE off
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE off
+Light 19: RED off
+Light 20: GREEN off
+
+Running the Sequence algorithm...count: 35
+Inside Sequence Algorithm...
+Light 1: RED off
+Light 2: GREEN off
+Light 3: WHITE off
+Light 4: RED off
+Light 5: GREEN off
+Light 6: WHITE off
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE off
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE off
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE on
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE off
+Light 19: RED off
+Light 20: GREEN off
+
+Running the Sequence algorithm...count: 36
+Inside Sequence Algorithm...
+Light 1: RED off
+Light 2: GREEN off
+Light 3: WHITE off
+Light 4: RED off
+Light 5: GREEN off
+Light 6: WHITE off
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE off
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE off
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE off
+Light 16: RED on
+Light 17: GREEN off
+Light 18: WHITE off
+Light 19: RED off
+Light 20: GREEN off
+
+Running the Sequence algorithm...count: 37
+Inside Sequence Algorithm...
+Light 1: RED off
+Light 2: GREEN off
+Light 3: WHITE off
+Light 4: RED off
+Light 5: GREEN off
+Light 6: WHITE off
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE off
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE off
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE off
+Light 16: RED off
+Light 17: GREEN on
+Light 18: WHITE off
+Light 19: RED off
+Light 20: GREEN off
+
+Running the Sequence algorithm...count: 38
+Inside Sequence Algorithm...
+Light 1: RED off
+Light 2: GREEN off
+Light 3: WHITE off
+Light 4: RED off
+Light 5: GREEN off
+Light 6: WHITE off
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE off
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE off
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE off
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE on
+Light 19: RED off
+Light 20: GREEN off
+
+Running the Sequence algorithm...count: 39
+Inside Sequence Algorithm...
+Light 1: RED off
+Light 2: GREEN off
+Light 3: WHITE off
+Light 4: RED off
+Light 5: GREEN off
+Light 6: WHITE off
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE off
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE off
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE off
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE off
+Light 19: RED on
+Light 20: GREEN off
+
+Running the Sequence algorithm...count: 40
+Inside Sequence Algorithm...
+Light 1: RED off
+Light 2: GREEN off
+Light 3: WHITE off
+Light 4: RED off
+Light 5: GREEN off
+Light 6: WHITE off
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE off
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE off
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE off
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE off
+Light 19: RED off
+Light 20: GREEN on
+
+Running the Sequence algorithm...count: 41
+Inside Sequence Algorithm...
+Light 1: RED on
+Light 2: GREEN off
+Light 3: WHITE off
+Light 4: RED off
+Light 5: GREEN off
+Light 6: WHITE off
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE off
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE off
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE off
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE off
+Light 19: RED off
+Light 20: GREEN off
+
+Running the Sequence algorithm...count: 42
+Inside Sequence Algorithm...
+Light 1: RED off
+Light 2: GREEN on
+Light 3: WHITE off
+Light 4: RED off
+Light 5: GREEN off
+Light 6: WHITE off
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE off
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE off
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE off
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE off
+Light 19: RED off
+Light 20: GREEN off
+
+Running the Sequence algorithm...count: 43
+Inside Sequence Algorithm...
+Light 1: RED off
+Light 2: GREEN off
+Light 3: WHITE on
+Light 4: RED off
+Light 5: GREEN off
+Light 6: WHITE off
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE off
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE off
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE off
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE off
+Light 19: RED off
+Light 20: GREEN off
+
+Running the Sequence algorithm...count: 44
+Inside Sequence Algorithm...
+Light 1: RED off
+Light 2: GREEN off
+Light 3: WHITE off
+Light 4: RED on
+Light 5: GREEN off
+Light 6: WHITE off
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE off
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE off
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE off
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE off
+Light 19: RED off
+Light 20: GREEN off
+
+Running the Sequence algorithm...count: 45
+Inside Sequence Algorithm...
+Light 1: RED off
+Light 2: GREEN off
+Light 3: WHITE off
+Light 4: RED off
+Light 5: GREEN on
+Light 6: WHITE off
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE off
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE off
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE off
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE off
+Light 19: RED off
+Light 20: GREEN off
+
+Running the Sequence algorithm...count: 46
+Inside Sequence Algorithm...
+Light 1: RED off
+Light 2: GREEN off
+Light 3: WHITE off
+Light 4: RED off
+Light 5: GREEN off
+Light 6: WHITE on
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE off
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE off
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE off
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE off
+Light 19: RED off
+Light 20: GREEN off
+
+Running the Sequence algorithm...count: 47
+Inside Sequence Algorithm...
+Light 1: RED off
+Light 2: GREEN off
+Light 3: WHITE off
+Light 4: RED off
+Light 5: GREEN off
+Light 6: WHITE off
+Light 7: RED on
+Light 8: GREEN off
+Light 9: WHITE off
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE off
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE off
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE off
+Light 19: RED off
+Light 20: GREEN off
+
+Running the Sequence algorithm...count: 48
+Inside Sequence Algorithm...
+Light 1: RED off
+Light 2: GREEN off
+Light 3: WHITE off
+Light 4: RED off
+Light 5: GREEN off
+Light 6: WHITE off
+Light 7: RED off
+Light 8: GREEN on
+Light 9: WHITE off
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE off
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE off
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE off
+Light 19: RED off
+Light 20: GREEN off
+
+Running the Sequence algorithm...count: 49
+Inside Sequence Algorithm...
+Light 1: RED off
+Light 2: GREEN off
+Light 3: WHITE off
+Light 4: RED off
+Light 5: GREEN off
+Light 6: WHITE off
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE on
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE off
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE off
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE off
+Light 19: RED off
+Light 20: GREEN off
+
+Running the Sequence algorithm...count: 50
+Inside Sequence Algorithm...
+Light 1: RED off
+Light 2: GREEN off
+Light 3: WHITE off
+Light 4: RED off
+Light 5: GREEN off
+Light 6: WHITE off
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE off
+Light 10: RED on
+Light 11: GREEN off
+Light 12: WHITE off
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE off
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE off
+Light 19: RED off
+Light 20: GREEN off
+
+Running the Sequence algorithm...count: 51
+Inside Sequence Algorithm...
+Light 1: RED off
+Light 2: GREEN off
+Light 3: WHITE off
+Light 4: RED off
+Light 5: GREEN off
+Light 6: WHITE off
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE off
+Light 10: RED off
+Light 11: GREEN on
+Light 12: WHITE off
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE off
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE off
+Light 19: RED off
+Light 20: GREEN off
+
+Running the Sequence algorithm...count: 52
+Inside Sequence Algorithm...
+Light 1: RED off
+Light 2: GREEN off
+Light 3: WHITE off
+Light 4: RED off
+Light 5: GREEN off
+Light 6: WHITE off
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE off
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE on
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE off
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE off
+Light 19: RED off
+Light 20: GREEN off
+
+Running the Sequence algorithm...count: 53
+Inside Sequence Algorithm...
+Light 1: RED off
+Light 2: GREEN off
+Light 3: WHITE off
+Light 4: RED off
+Light 5: GREEN off
+Light 6: WHITE off
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE off
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE off
+Light 13: RED on
+Light 14: GREEN off
+Light 15: WHITE off
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE off
+Light 19: RED off
+Light 20: GREEN off
+
+Running the Sequence algorithm...count: 54
+Inside Sequence Algorithm...
+Light 1: RED off
+Light 2: GREEN off
+Light 3: WHITE off
+Light 4: RED off
+Light 5: GREEN off
+Light 6: WHITE off
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE off
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE off
+Light 13: RED off
+Light 14: GREEN on
+Light 15: WHITE off
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE off
+Light 19: RED off
+Light 20: GREEN off
+
+Running the Sequence algorithm...count: 55
+Inside Sequence Algorithm...
+Light 1: RED off
+Light 2: GREEN off
+Light 3: WHITE off
+Light 4: RED off
+Light 5: GREEN off
+Light 6: WHITE off
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE off
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE off
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE on
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE off
+Light 19: RED off
+Light 20: GREEN off
+
+Running the Sequence algorithm...count: 56
+Inside Sequence Algorithm...
+Light 1: RED off
+Light 2: GREEN off
+Light 3: WHITE off
+Light 4: RED off
+Light 5: GREEN off
+Light 6: WHITE off
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE off
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE off
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE off
+Light 16: RED on
+Light 17: GREEN off
+Light 18: WHITE off
+Light 19: RED off
+Light 20: GREEN off
+
+Running the Sequence algorithm...count: 57
+Inside Sequence Algorithm...
+Light 1: RED off
+Light 2: GREEN off
+Light 3: WHITE off
+Light 4: RED off
+Light 5: GREEN off
+Light 6: WHITE off
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE off
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE off
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE off
+Light 16: RED off
+Light 17: GREEN on
+Light 18: WHITE off
+Light 19: RED off
+Light 20: GREEN off
+
+Running the Sequence algorithm...count: 58
+Inside Sequence Algorithm...
+Light 1: RED off
+Light 2: GREEN off
+Light 3: WHITE off
+Light 4: RED off
+Light 5: GREEN off
+Light 6: WHITE off
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE off
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE off
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE off
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE on
+Light 19: RED off
+Light 20: GREEN off
+
+Running the Sequence algorithm...count: 59
+Inside Sequence Algorithm...
+Light 1: RED off
+Light 2: GREEN off
+Light 3: WHITE off
+Light 4: RED off
+Light 5: GREEN off
+Light 6: WHITE off
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE off
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE off
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE off
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE off
+Light 19: RED on
+Light 20: GREEN off
+
+Running the Sequence algorithm...count: 60
+Inside Sequence Algorithm...
+Light 1: RED off
+Light 2: GREEN off
+Light 3: WHITE off
+Light 4: RED off
+Light 5: GREEN off
+Light 6: WHITE off
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE off
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE off
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE off
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE off
+Light 19: RED off
+Light 20: GREEN on
+
+Running the Colour algorithm...count: 1
+Inside Colour Algorithm...
+Light 1: RED on
+Light 2: GREEN off
+Light 3: WHITE off
+Light 4: RED on
+Light 5: GREEN off
+Light 6: WHITE off
+Light 7: RED on
+Light 8: GREEN off
+Light 9: WHITE off
+Light 10: RED on
+Light 11: GREEN off
+Light 12: WHITE off
+Light 13: RED on
+Light 14: GREEN off
+Light 15: WHITE off
+Light 16: RED on
+Light 17: GREEN off
+Light 18: WHITE off
+Light 19: RED on
+Light 20: GREEN off
+
+Running the Colour algorithm...count: 2
+Inside Colour Algorithm...
+Light 1: RED off
+Light 2: GREEN on
+Light 3: WHITE off
+Light 4: RED off
+Light 5: GREEN on
+Light 6: WHITE off
+Light 7: RED off
+Light 8: GREEN on
+Light 9: WHITE off
+Light 10: RED off
+Light 11: GREEN on
+Light 12: WHITE off
+Light 13: RED off
+Light 14: GREEN on
+Light 15: WHITE off
+Light 16: RED off
+Light 17: GREEN on
+Light 18: WHITE off
+Light 19: RED off
+Light 20: GREEN on
+
+Running the Colour algorithm...count: 3
+Inside Colour Algorithm...
+Light 1: RED off
+Light 2: GREEN off
+Light 3: WHITE on
+Light 4: RED off
+Light 5: GREEN off
+Light 6: WHITE on
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE on
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE on
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE on
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE on
+Light 19: RED off
+Light 20: GREEN off
+
+Running the Colour algorithm...count: 4
+Inside Colour Algorithm...
+Light 1: RED on
+Light 2: GREEN off
+Light 3: WHITE off
+Light 4: RED on
+Light 5: GREEN off
+Light 6: WHITE off
+Light 7: RED on
+Light 8: GREEN off
+Light 9: WHITE off
+Light 10: RED on
+Light 11: GREEN off
+Light 12: WHITE off
+Light 13: RED on
+Light 14: GREEN off
+Light 15: WHITE off
+Light 16: RED on
+Light 17: GREEN off
+Light 18: WHITE off
+Light 19: RED on
+Light 20: GREEN off
+
+Running the Colour algorithm...count: 5
+Inside Colour Algorithm...
+Light 1: RED off
+Light 2: GREEN on
+Light 3: WHITE off
+Light 4: RED off
+Light 5: GREEN on
+Light 6: WHITE off
+Light 7: RED off
+Light 8: GREEN on
+Light 9: WHITE off
+Light 10: RED off
+Light 11: GREEN on
+Light 12: WHITE off
+Light 13: RED off
+Light 14: GREEN on
+Light 15: WHITE off
+Light 16: RED off
+Light 17: GREEN on
+Light 18: WHITE off
+Light 19: RED off
+Light 20: GREEN on
+
+Running the Colour algorithm...count: 6
+Inside Colour Algorithm...
+Light 1: RED off
+Light 2: GREEN off
+Light 3: WHITE on
+Light 4: RED off
+Light 5: GREEN off
+Light 6: WHITE on
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE on
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE on
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE on
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE on
+Light 19: RED off
+Light 20: GREEN off
+
+Running the Colour algorithm...count: 7
+Inside Colour Algorithm...
+Light 1: RED on
+Light 2: GREEN off
+Light 3: WHITE off
+Light 4: RED on
+Light 5: GREEN off
+Light 6: WHITE off
+Light 7: RED on
+Light 8: GREEN off
+Light 9: WHITE off
+Light 10: RED on
+Light 11: GREEN off
+Light 12: WHITE off
+Light 13: RED on
+Light 14: GREEN off
+Light 15: WHITE off
+Light 16: RED on
+Light 17: GREEN off
+Light 18: WHITE off
+Light 19: RED on
+Light 20: GREEN off
+
+Running the Colour algorithm...count: 8
+Inside Colour Algorithm...
+Light 1: RED off
+Light 2: GREEN on
+Light 3: WHITE off
+Light 4: RED off
+Light 5: GREEN on
+Light 6: WHITE off
+Light 7: RED off
+Light 8: GREEN on
+Light 9: WHITE off
+Light 10: RED off
+Light 11: GREEN on
+Light 12: WHITE off
+Light 13: RED off
+Light 14: GREEN on
+Light 15: WHITE off
+Light 16: RED off
+Light 17: GREEN on
+Light 18: WHITE off
+Light 19: RED off
+Light 20: GREEN on
+
+Running the Colour algorithm...count: 9
+Inside Colour Algorithm...
+Light 1: RED off
+Light 2: GREEN off
+Light 3: WHITE on
+Light 4: RED off
+Light 5: GREEN off
+Light 6: WHITE on
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE on
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE on
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE on
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE on
+Light 19: RED off
+Light 20: GREEN off
+
+Running the Colour algorithm...count: 10
+Inside Colour Algorithm...
+Light 1: RED on
+Light 2: GREEN off
+Light 3: WHITE off
+Light 4: RED on
+Light 5: GREEN off
+Light 6: WHITE off
+Light 7: RED on
+Light 8: GREEN off
+Light 9: WHITE off
+Light 10: RED on
+Light 11: GREEN off
+Light 12: WHITE off
+Light 13: RED on
+Light 14: GREEN off
+Light 15: WHITE off
+Light 16: RED on
+Light 17: GREEN off
+Light 18: WHITE off
+Light 19: RED on
+Light 20: GREEN off
+
+Running the Colour algorithm...count: 11
+Inside Colour Algorithm...
+Light 1: RED off
+Light 2: GREEN on
+Light 3: WHITE off
+Light 4: RED off
+Light 5: GREEN on
+Light 6: WHITE off
+Light 7: RED off
+Light 8: GREEN on
+Light 9: WHITE off
+Light 10: RED off
+Light 11: GREEN on
+Light 12: WHITE off
+Light 13: RED off
+Light 14: GREEN on
+Light 15: WHITE off
+Light 16: RED off
+Light 17: GREEN on
+Light 18: WHITE off
+Light 19: RED off
+Light 20: GREEN on
+
+Running the Colour algorithm...count: 12
+Inside Colour Algorithm...
+Light 1: RED off
+Light 2: GREEN off
+Light 3: WHITE on
+Light 4: RED off
+Light 5: GREEN off
+Light 6: WHITE on
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE on
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE on
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE on
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE on
+Light 19: RED off
+Light 20: GREEN off
+
+Running the Colour algorithm...count: 13
+Inside Colour Algorithm...
+Light 1: RED on
+Light 2: GREEN off
+Light 3: WHITE off
+Light 4: RED on
+Light 5: GREEN off
+Light 6: WHITE off
+Light 7: RED on
+Light 8: GREEN off
+Light 9: WHITE off
+Light 10: RED on
+Light 11: GREEN off
+Light 12: WHITE off
+Light 13: RED on
+Light 14: GREEN off
+Light 15: WHITE off
+Light 16: RED on
+Light 17: GREEN off
+Light 18: WHITE off
+Light 19: RED on
+Light 20: GREEN off
+
+Running the Colour algorithm...count: 14
+Inside Colour Algorithm...
+Light 1: RED off
+Light 2: GREEN on
+Light 3: WHITE off
+Light 4: RED off
+Light 5: GREEN on
+Light 6: WHITE off
+Light 7: RED off
+Light 8: GREEN on
+Light 9: WHITE off
+Light 10: RED off
+Light 11: GREEN on
+Light 12: WHITE off
+Light 13: RED off
+Light 14: GREEN on
+Light 15: WHITE off
+Light 16: RED off
+Light 17: GREEN on
+Light 18: WHITE off
+Light 19: RED off
+Light 20: GREEN on
+
+Running the Colour algorithm...count: 15
+Inside Colour Algorithm...
+Light 1: RED off
+Light 2: GREEN off
+Light 3: WHITE on
+Light 4: RED off
+Light 5: GREEN off
+Light 6: WHITE on
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE on
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE on
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE on
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE on
+Light 19: RED off
+Light 20: GREEN off
+
+Running the Colour algorithm...count: 16
+Inside Colour Algorithm...
+Light 1: RED on
+Light 2: GREEN off
+Light 3: WHITE off
+Light 4: RED on
+Light 5: GREEN off
+Light 6: WHITE off
+Light 7: RED on
+Light 8: GREEN off
+Light 9: WHITE off
+Light 10: RED on
+Light 11: GREEN off
+Light 12: WHITE off
+Light 13: RED on
+Light 14: GREEN off
+Light 15: WHITE off
+Light 16: RED on
+Light 17: GREEN off
+Light 18: WHITE off
+Light 19: RED on
+Light 20: GREEN off
+
+Running the Colour algorithm...count: 17
+Inside Colour Algorithm...
+Light 1: RED off
+Light 2: GREEN on
+Light 3: WHITE off
+Light 4: RED off
+Light 5: GREEN on
+Light 6: WHITE off
+Light 7: RED off
+Light 8: GREEN on
+Light 9: WHITE off
+Light 10: RED off
+Light 11: GREEN on
+Light 12: WHITE off
+Light 13: RED off
+Light 14: GREEN on
+Light 15: WHITE off
+Light 16: RED off
+Light 17: GREEN on
+Light 18: WHITE off
+Light 19: RED off
+Light 20: GREEN on
+
+Running the Colour algorithm...count: 18
+Inside Colour Algorithm...
+Light 1: RED off
+Light 2: GREEN off
+Light 3: WHITE on
+Light 4: RED off
+Light 5: GREEN off
+Light 6: WHITE on
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE on
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE on
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE on
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE on
+Light 19: RED off
+Light 20: GREEN off
+
+Running the Colour algorithm...count: 19
+Inside Colour Algorithm...
+Light 1: RED on
+Light 2: GREEN off
+Light 3: WHITE off
+Light 4: RED on
+Light 5: GREEN off
+Light 6: WHITE off
+Light 7: RED on
+Light 8: GREEN off
+Light 9: WHITE off
+Light 10: RED on
+Light 11: GREEN off
+Light 12: WHITE off
+Light 13: RED on
+Light 14: GREEN off
+Light 15: WHITE off
+Light 16: RED on
+Light 17: GREEN off
+Light 18: WHITE off
+Light 19: RED on
+Light 20: GREEN off
+
+Running the Colour algorithm...count: 20
+Inside Colour Algorithm...
+Light 1: RED off
+Light 2: GREEN on
+Light 3: WHITE off
+Light 4: RED off
+Light 5: GREEN on
+Light 6: WHITE off
+Light 7: RED off
+Light 8: GREEN on
+Light 9: WHITE off
+Light 10: RED off
+Light 11: GREEN on
+Light 12: WHITE off
+Light 13: RED off
+Light 14: GREEN on
+Light 15: WHITE off
+Light 16: RED off
+Light 17: GREEN on
+Light 18: WHITE off
+Light 19: RED off
+Light 20: GREEN on
+
+Running the Colour algorithm...count: 21
+Inside Colour Algorithm...
+Light 1: RED off
+Light 2: GREEN off
+Light 3: WHITE on
+Light 4: RED off
+Light 5: GREEN off
+Light 6: WHITE on
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE on
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE on
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE on
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE on
+Light 19: RED off
+Light 20: GREEN off
+
+Running the Colour algorithm...count: 22
+Inside Colour Algorithm...
+Light 1: RED on
+Light 2: GREEN off
+Light 3: WHITE off
+Light 4: RED on
+Light 5: GREEN off
+Light 6: WHITE off
+Light 7: RED on
+Light 8: GREEN off
+Light 9: WHITE off
+Light 10: RED on
+Light 11: GREEN off
+Light 12: WHITE off
+Light 13: RED on
+Light 14: GREEN off
+Light 15: WHITE off
+Light 16: RED on
+Light 17: GREEN off
+Light 18: WHITE off
+Light 19: RED on
+Light 20: GREEN off
+
+Running the Colour algorithm...count: 23
+Inside Colour Algorithm...
+Light 1: RED off
+Light 2: GREEN on
+Light 3: WHITE off
+Light 4: RED off
+Light 5: GREEN on
+Light 6: WHITE off
+Light 7: RED off
+Light 8: GREEN on
+Light 9: WHITE off
+Light 10: RED off
+Light 11: GREEN on
+Light 12: WHITE off
+Light 13: RED off
+Light 14: GREEN on
+Light 15: WHITE off
+Light 16: RED off
+Light 17: GREEN on
+Light 18: WHITE off
+Light 19: RED off
+Light 20: GREEN on
+
+Running the Colour algorithm...count: 24
+Inside Colour Algorithm...
+Light 1: RED off
+Light 2: GREEN off
+Light 3: WHITE on
+Light 4: RED off
+Light 5: GREEN off
+Light 6: WHITE on
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE on
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE on
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE on
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE on
+Light 19: RED off
+Light 20: GREEN off
+
+Running the Colour algorithm...count: 25
+Inside Colour Algorithm...
+Light 1: RED on
+Light 2: GREEN off
+Light 3: WHITE off
+Light 4: RED on
+Light 5: GREEN off
+Light 6: WHITE off
+Light 7: RED on
+Light 8: GREEN off
+Light 9: WHITE off
+Light 10: RED on
+Light 11: GREEN off
+Light 12: WHITE off
+Light 13: RED on
+Light 14: GREEN off
+Light 15: WHITE off
+Light 16: RED on
+Light 17: GREEN off
+Light 18: WHITE off
+Light 19: RED on
+Light 20: GREEN off
+
+Running the Colour algorithm...count: 26
+Inside Colour Algorithm...
+Light 1: RED off
+Light 2: GREEN on
+Light 3: WHITE off
+Light 4: RED off
+Light 5: GREEN on
+Light 6: WHITE off
+Light 7: RED off
+Light 8: GREEN on
+Light 9: WHITE off
+Light 10: RED off
+Light 11: GREEN on
+Light 12: WHITE off
+Light 13: RED off
+Light 14: GREEN on
+Light 15: WHITE off
+Light 16: RED off
+Light 17: GREEN on
+Light 18: WHITE off
+Light 19: RED off
+Light 20: GREEN on
+
+Running the Colour algorithm...count: 27
+Inside Colour Algorithm...
+Light 1: RED off
+Light 2: GREEN off
+Light 3: WHITE on
+Light 4: RED off
+Light 5: GREEN off
+Light 6: WHITE on
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE on
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE on
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE on
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE on
+Light 19: RED off
+Light 20: GREEN off
+
+Running the Colour algorithm...count: 28
+Inside Colour Algorithm...
+Light 1: RED on
+Light 2: GREEN off
+Light 3: WHITE off
+Light 4: RED on
+Light 5: GREEN off
+Light 6: WHITE off
+Light 7: RED on
+Light 8: GREEN off
+Light 9: WHITE off
+Light 10: RED on
+Light 11: GREEN off
+Light 12: WHITE off
+Light 13: RED on
+Light 14: GREEN off
+Light 15: WHITE off
+Light 16: RED on
+Light 17: GREEN off
+Light 18: WHITE off
+Light 19: RED on
+Light 20: GREEN off
+
+Running the Colour algorithm...count: 29
+Inside Colour Algorithm...
+Light 1: RED off
+Light 2: GREEN on
+Light 3: WHITE off
+Light 4: RED off
+Light 5: GREEN on
+Light 6: WHITE off
+Light 7: RED off
+Light 8: GREEN on
+Light 9: WHITE off
+Light 10: RED off
+Light 11: GREEN on
+Light 12: WHITE off
+Light 13: RED off
+Light 14: GREEN on
+Light 15: WHITE off
+Light 16: RED off
+Light 17: GREEN on
+Light 18: WHITE off
+Light 19: RED off
+Light 20: GREEN on
+
+Running the Colour algorithm...count: 30
+Inside Colour Algorithm...
+Light 1: RED off
+Light 2: GREEN off
+Light 3: WHITE on
+Light 4: RED off
+Light 5: GREEN off
+Light 6: WHITE on
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE on
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE on
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE on
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE on
+Light 19: RED off
+Light 20: GREEN off
+
+Running the Sequence algorithm...count: 1
+Inside Sequence Algorithm...
+Light 1: RED off
+Light 2: GREEN off
+Light 3: WHITE on
+Light 4: RED off
+Light 5: GREEN off
+Light 6: WHITE on
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE on
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE on
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE on
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE on
+Light 19: RED off
+Light 20: GREEN on
+
+Running the Sequence algorithm...count: 2
+Inside Sequence Algorithm...
+Light 1: RED on
+Light 2: GREEN off
+Light 3: WHITE on
+Light 4: RED off
+Light 5: GREEN off
+Light 6: WHITE on
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE on
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE on
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE on
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE on
+Light 19: RED off
+Light 20: GREEN off
+
+Running the Sequence algorithm...count: 3
+Inside Sequence Algorithm...
+Light 1: RED off
+Light 2: GREEN on
+Light 3: WHITE on
+Light 4: RED off
+Light 5: GREEN off
+Light 6: WHITE on
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE on
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE on
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE on
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE on
+Light 19: RED off
+Light 20: GREEN off
+
+Running the Sequence algorithm...count: 4
+Inside Sequence Algorithm...
+Light 1: RED off
+Light 2: GREEN off
+Light 3: WHITE on
+Light 4: RED off
+Light 5: GREEN off
+Light 6: WHITE on
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE on
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE on
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE on
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE on
+Light 19: RED off
+Light 20: GREEN off
+
+Running the Sequence algorithm...count: 5
+Inside Sequence Algorithm...
+Light 1: RED off
+Light 2: GREEN off
+Light 3: WHITE off
+Light 4: RED on
+Light 5: GREEN off
+Light 6: WHITE on
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE on
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE on
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE on
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE on
+Light 19: RED off
+Light 20: GREEN off
+
+Running the Sequence algorithm...count: 6
+Inside Sequence Algorithm...
+Light 1: RED off
+Light 2: GREEN off
+Light 3: WHITE off
+Light 4: RED off
+Light 5: GREEN on
+Light 6: WHITE on
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE on
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE on
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE on
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE on
+Light 19: RED off
+Light 20: GREEN off
+
+Running the Sequence algorithm...count: 7
+Inside Sequence Algorithm...
+Light 1: RED off
+Light 2: GREEN off
+Light 3: WHITE off
+Light 4: RED off
+Light 5: GREEN off
+Light 6: WHITE on
+Light 7: RED off
+Light 8: GREEN off
+Light 9: WHITE on
+Light 10: RED off
+Light 11: GREEN off
+Light 12: WHITE on
+Light 13: RED off
+Light 14: GREEN off
+Light 15: WHITE on
+Light 16: RED off
+Light 17: GREEN off
+Light 18: WHITE on
+Light 19: RED off
+Light 20: GREEN off
+
